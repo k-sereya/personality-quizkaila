@@ -1,0 +1,46 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: "Patrick Hand", cursive;
+  margin: 2em;
+  background-color: #ececf9;
+}
+
+h1 {
+  font-style: none;
+  color: #809fff;
+  text-align:center;
+}
+
+h2 {
+  font-style: none;
+  margin-top: 2em; 
+  color: #884dff;
+}
+
+.question {
+  display: flex;
+  margin-top: 2em;
+}
+  
+.answer-choice img {
+  height: 10em;
+}
+
+.text1 {
+  text-align:center;
+}
+img {
+  border-radius: 8px;
+}
+
+button {
+  color:#4d4dff;
+  background-color: white;
+  border-style:none;
+  border-radius: 8px;}
+
+#quizagain {
+  background-color: #4d4dff;
+  color: white;
+}
